@@ -3,8 +3,6 @@ Hi, I’m Myles, a software devloper from Sydney, Australia
 
 I’m interested in Free/Libre and Open Source Software, CLI tools and Game Development.
 
-
----
 ## Things to learn and Improve
 
 - Programming
@@ -33,10 +31,11 @@ I’m interested in Free/Libre and Open Source Software, CLI tools and Game Deve
 - General
   - Note taking (using Obsidian)
 
----
 ## How to Contact Me
 Please feel free to contact me at any time. I am always happy to chat to like minded people, and further my learning in new and interesting ways.
+
 **Email:** mylesjpritchett@gmail.com
+
 **Website:** (Currently Outdated) mylesp.xyz
 
 
