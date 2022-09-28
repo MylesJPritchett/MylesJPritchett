@@ -3,7 +3,7 @@ Hi, I’m Myles, a software devloper from Sydney, Australia
 
 I’m interested in Free/Libre and Open Source Software, CLI tools and Game Development.
 
-## Things to learn and Improve
+## Things I am Currently Learning and Improving on
 
 - Programming
   - General Programming
