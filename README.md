@@ -1,7 +1,7 @@
 # About Me
 Hi, I’m Myles, a software devloper from Sydney, Australia
 
-I’m interested in Free/Libre and Open Source Software, CLI tools and Game Development.
+I’m interested in a whole lot of 'stuff'
 
 ## Things I am Currently Learning and Improving on
 
